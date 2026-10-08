@@ -9,7 +9,7 @@
 ### Building practical systems at the intersection of **data, AI & engineering**
 
 <a href="https://github.com/utkarsh-goel18"><img src="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/utkarshgoel1801"><img src="https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
