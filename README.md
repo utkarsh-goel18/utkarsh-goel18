@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/header.gif" width="100%" alt="Animated profile header"/>
+<img src="./header.gif" width="100%" alt="Animated profile header"/>
 
 <br/>
 
-<img src="./assets/terminal.svg" width="100%" alt="Animated terminal line"/>
+<img src="./terminal.svg" width="100%" alt="Animated terminal line"/>
 
 ### Building practical systems at the intersection of **data, AI & engineering**
 
